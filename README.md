@@ -26,7 +26,7 @@
 
 <p align="left">
   💼 Ferramentas: 
-  ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
+  <img height="32" src="https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman" alt="PostMan"/>
 </p>
 
 <p align="left">
