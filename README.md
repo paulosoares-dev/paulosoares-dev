@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="300px" max-width="400px" width="300px" align="right">
 
 <p align="left"> 
-<img alt="Static Badge" src="https://img.shields.io/badge/PAULO--SOARES--DEV-blue?style=for-the-badge&logo=github&label=OVERVIEW">
+<img alt="Static Badge" src="https://img.shields.io/badge/PAULOSOARES--DEV-blue?style=for-the-badge&logo=github&label=OVERVIEW">
 <h3>Sobre mim</h3>
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
