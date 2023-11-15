@@ -58,10 +58,10 @@
   <img alt="E-Mail" src="https://img.shields.io/badge/paulosoares%40ptek.com.br-blue?style=for-the-badge&logo=gmail&logoColor=white&labelColor=green"></a>
 
   <a href="https://www.linkedin.com/in/paulosoares-dev/" title="LinkedIn">
-  <img src="https://img.shields.io/badge/Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/paulosoares-dev/" alt="LinkedIn"/></a>
+  <img src="https://img.shields.io/badge/Linkedin-33658A?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/paulosoares-dev/&labelColor=2F4858" alt="LinkedIn"/></a>
 
   <a href="https://wa.me/558581311363" title="WhatsApp">
-  <img src="https://img.shields.io/badge/WhatsApp-25d366?style=for-the-badge&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://wa.me/8581311363" alt="WhatsApp"/></a>
+  <img src="https://img.shields.io/badge/WhatsApp-307473?style=for-the-badge&labelColor=12664f&logo=whatsapp&logoColor=white&link=https://wa.me/8581311363/" alt="WhatsApp"/></a>
 
   <a href="https://instagram.com/pcearense" title="Instagram">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&labelColor=DF0174&logo=instagram&logoColor=white&link=https://instagram.com/pcearense" alt="Instagram"/></a>
