@@ -1,7 +1,12 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="300px" max-width="400px" width="300px" align="right">
 
+## Paulo Soares
+<a href="mailto:paulosoares@ptek.com.br" title="E-mail">
+  <img alt="E-Mail" src="https://img.shields.io/badge/paulosoares%40ptek.com.br-blue?style=for-the-badge&logo=gmail&logoColor=white&labelColor=63A46C"></a>
+  <a href="https://www.linkedin.com/in/paulosoares-dev/" title="LinkedIn">
+  <img src="https://img.shields.io/badge/paulosoares-dev-33658A?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/paulosoares-dev/&labelColor=2F4858" alt="paulosoares-dev"/></a>
+
 <p align="left"> 
-<img alt="Static Badge" src="https://img.shields.io/badge/PAULOSOARES--DEV-blue?style=for-the-badge&logo=github&label=OVERVIEW">
 <h3>Sobre mim</h3>
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
@@ -55,7 +60,7 @@
 </p>
 <p align="left">
   <a href="mailto:paulosoares@ptek.com.br" title="E-mail">
-  <img alt="E-Mail" src="https://img.shields.io/badge/paulosoares%40ptek.com.br-blue?style=for-the-badge&logo=gmail&logoColor=white&labelColor=green"></a>
+  <img alt="E-Mail" src="https://img.shields.io/badge/paulosoares%40ptek.com.br-blue?style=for-the-badge&logo=gmail&logoColor=white&labelColor=63A46C"></a>
 
   <a href="https://www.linkedin.com/in/paulosoares-dev/" title="LinkedIn">
   <img src="https://img.shields.io/badge/Linkedin-33658A?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/paulosoares-dev/&labelColor=2F4858" alt="LinkedIn"/></a>
