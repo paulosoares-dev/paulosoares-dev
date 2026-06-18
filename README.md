@@ -55,20 +55,6 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=paulosoares-dev&show_icons=true)
 ![paulosoares-dev](https://github-readme-stats.vercel.app/api/top-langs/?username=paulosoares-dev&layout=compact)
 
-### Experiência de trabalho
-
-Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
-
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://www.spacex.com/static/images/share.jpg"/>](https://www.spacex.com/)
-
-**Desenvolvedor Full-Stack** \
-[**PTEK SOLUÇÕES**](https://www.ptek.com.br/) • Full-time \
-Linguagens & Tecnologias: `JavaScript`, `React`, `VueJS`, `PHP`, `HTML5`, `CSS`, `SASS`\
-Projetos em destaque: [Unidos da Cachorra](https://www.unidosdacachorra.com.br/), [ICCARDIO](https://iccardio.com.br/), [Móveis Saara](https://moveissaara.com.br/)...
-<br/>
-
-
-
 <p align="left">
   💌 Quer bater um papo ou tem alguma idéia para desenvolver fala comigo: ⤵️
 </p>
